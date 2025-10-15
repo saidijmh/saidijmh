@@ -75,7 +75,7 @@
 
 ## Contact
 
-- **LinkedIn:** <linkedin.com/in/saidijimoh>  
+- **LinkedIn:** <https://www.linkedin.com/in/saidijimoh/>  
 - **Email:** <Saidijmh@yahoo.com>  
 - **Portfolio:** <your-portfolio-url>
 
